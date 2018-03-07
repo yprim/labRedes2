@@ -2,7 +2,7 @@
 <head>
 	<meta charset = "utf-8"/>
 	<meta name="description" content="sitio"/>
-    <meta name="viewport" content="width-device-width,initial-scale=1"/>
+    <!--<meta name="viewport" content="width-device-width,initial-scale=1"/>-->
 
     <script src='https://unpkg.com/mapillary-js@2.11.1/dist/mapillary.min.js'></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
